@@ -2,7 +2,12 @@
 
 <br>
 
-<h2>Esse projeto que eu aprendir no <a href="https:rodolfomori.com.br/devclub">DevClub</a> </h2>
+<h2>Esse projeto que eu aprendir no <a href="https:rodolfomori.com.br/devclub">DevClub</a> , Projeto Responsivo!! </h2>
+
+## Feito com:
+
+ - CSS
+ - HTML
 
 <br>
 
